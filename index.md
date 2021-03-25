@@ -5,6 +5,6 @@
 ### SpaceGame
 OOP game built in Processing
 
-Image of SpaceGame
+![Image of SpaceGame](https://github.com/William9585/ProgramingPortfolio/blob/gh-pages/image/space%20game.PNG?raw=true)
 
-Source Code
+
