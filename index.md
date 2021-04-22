@@ -12,4 +12,4 @@ OOP game built in Processing environment. Winter of 2020
 ### Calculator
 OOP GUI calculator built in Procesing environment. Winter of 2020
 
-![Image of SpaceGame](https://github.com/William9585/ProgramingPortfolio/blob/gh-pages/image/space%20game.PNG?raw=true)
+![Calculator](https://github.com/William9585/ProgramingPortfolio/blob/gh-pages/image/Calculator.png?raw=true)
