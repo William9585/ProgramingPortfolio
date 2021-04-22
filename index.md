@@ -16,8 +16,8 @@ OOP GUI calculator built in Procesing environment. Winter of 2020
 
 
 ### ScreenSaver
-OOP GUI ScreenSaver built in Procesing environment. Winter of 2020
+OOP ScreenSaver built in Procesing environment. Winter of 2020
 
 ![ScreenSaver](https://github.com/William9585/ProgramingPortfolio/blob/gh-pages/image/screen%20saver.PNG?raw=true)
 
-Source code available [here]{}.
+Source code available [here]{https://github.com/William9585/ProgramingPortfolio/tree/gh-pages/src/ScreenSaver}.
